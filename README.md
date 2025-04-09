@@ -23,3 +23,8 @@ python script to run the model(github - https://github.com/EdjeElectronics/Train
 --> curl -o yolo_detect.py https://www.ejtech.io/code/yolo_detect.py
 to run the script
 --> python yolo_detect.py --model my_model.pt --source usb0 --resolution 1280x720
+
+
+results
+![results](https://github.com/user-attachments/assets/daec2385-569a-4e56-978c-ff3b15f7c904)
+
